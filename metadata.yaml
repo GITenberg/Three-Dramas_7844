@@ -1,0 +1,38 @@
+_repo: Three-Dramas_7844
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Sharp, R. Farquharson (Robert Farquharson)
+    alias: Sharp, Robert Farquharson
+    birthdate: 1864
+    deathdate: 1945
+    gutenberg_agent_id: '862'
+    url: http://www.gutenberg.org/2009/agents/862
+creator:
+  author:
+    agent_name: Bjørnson, Bjørnstjerne
+    aliases:
+    - Björnson, Björnstjerne
+    - Bjornson, Bjornstjerne
+    birthdate: 1832
+    deathdate: 1910
+    gutenberg_agent_id: '1772'
+    url: http://www.gutenberg.org/2009/agents/1772
+    wikipedia: http://en.wikipedia.org/wiki/Bjørnstjerne_Bjørnson
+description: ''
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7844'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bjørnson, Bjørnstjerne, 1832-1910 -- Translations into English'
+- !lcsh 'Drama'
+- !lcc 'PT'
+- GITenberg
+tableOfContents: The editor -- The bankrupt -- The king.
+title: Three Dramas
+url: http://www.gutenberg.org/ebooks/7844
